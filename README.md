@@ -12,8 +12,8 @@ Actinic keratosis Basal cell carcinoma Dermatofibroma Melanoma Nevus Pigmented b
 
 
 ## General Information
-- evaluate images and alert the dermatologists about the presence of melanoma
-- reduce a lot of manual effort needed in diagnosis.
+- Evaluate images and alert the dermatologists about the presence of melanoma
+- Reduce a lot of manual effort needed in diagnosis.
 - 75% of skin cancer deaths
 
 
